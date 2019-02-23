@@ -1,4 +1,4 @@
-package com.imti.springbootdocker;
+package com.talcrafts;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
